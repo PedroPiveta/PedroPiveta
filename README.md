@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 # Olá meu nome é Pedro Piveta Barrotti 👋
 ## Estou no terceiro ano do ensino médio do curso de informática integrado
 
@@ -19,3 +18,4 @@
 <!--
 **PedroPiveta/PedroPiveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![Snake animation](https://github.com/seu-usuário-aqui/PedroPiveta/blob/output/github-contribution-grid-snake.svg)
