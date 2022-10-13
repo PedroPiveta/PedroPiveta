@@ -1,5 +1,5 @@
 # Olá meu nome é Pedro Piveta Barrotti 👋
-## Estou no terceiro ano do ensino médio do curso de informática integrado à internet
+## Estou no terceiro ano do ensino médio no curso de informática integrado à internet
 
 <div>
   <a href="https://github.com/PedroPiveta">
