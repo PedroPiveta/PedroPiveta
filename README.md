@@ -1,5 +1,5 @@
 # Hello my name is Pedro Piveta Barrotti 👋
-## Studying to be a full stack developer
+## Studying to be a full stack developer 🖥️ 🚀
 
 <div>
   <a href="https://github.com/PedroPiveta">
