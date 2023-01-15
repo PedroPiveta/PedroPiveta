@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello my name is Pedro Piveta Barrotti <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
-## Studying to be a full stack developer 🖥️ 🚀
+## Full stack developer 🖥️ 🚀
 
 <div>
   <a href="https://github.com/PedroPiveta">
