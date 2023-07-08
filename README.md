@@ -4,6 +4,8 @@
 
 ## Currently studying to be a full stack developer 🖥️ 🚀
 
+<img href="/giphy.gif">
+
 <div>
   <a href="https://github.com/PedroPiveta">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroPiveta&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> 
