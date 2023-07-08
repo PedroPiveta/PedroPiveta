@@ -4,7 +4,7 @@
 
 ## Currently studying to be a full stack developer 🖥️ 🚀
 
-<img href="/giphy.gif">
+<img src="/giphy.gif">
 
 <div>
   <a href="https://github.com/PedroPiveta">
