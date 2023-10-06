@@ -26,7 +26,7 @@
 <!--
 **PedroPiveta/PedroPiveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!-- ![Snake animation](https://github.com/PedroPiveta/PedroPiveta/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/PedroPiveta/PedroPiveta/blob/main/github-user-contribution.svg)
 
 </div>  
   
